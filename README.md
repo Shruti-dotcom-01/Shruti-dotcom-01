@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Shruti
-- 🌱 I’m currently learning MERN stack
-- 💬 Ask me about HTML,CSS,JS
+- 🌱 I’m MERN stack developer and frontend developer too.
+- 💬 Ask me about HTML,CSS,JS, Reactjs, bootstrap, taliwind css
 - 📫 How to reach me shrutimsvaidya@gmail.com
 
 Connect with me:
 https://www.linkedin.com/in/shruti-v-11b10121a/
 
 Skills-
-HTMl, CSS, JS, BOOTSTRAP
+HTMl, CSS, JS, BOOTSTRAP, Tailwind css , React js
 
 
 
